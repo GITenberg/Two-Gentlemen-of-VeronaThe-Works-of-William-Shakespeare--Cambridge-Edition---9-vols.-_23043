@@ -1,0 +1,51 @@
+_repo: Two-Gentlemen-of-VeronaThe-Works-of-William-Shakespeare--Cambridge-Edition---9-vols.-_23043
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+  editors:
+  - agent_name: Glover, John, librarian of Trinity College, Cambridge
+    gutenberg_agent_id: '25743'
+    url: http://www.gutenberg.org/2009/agents/25743
+  - agent_name: Clark, William George
+    aliases:
+    - Clarke, William George
+    - Clark, W. G. (William George)
+    birthdate: 1821
+    deathdate: 1878
+    gutenberg_agent_id: '25742'
+    url: http://www.gutenberg.org/2009/agents/25742
+description: Close friends Valentine and Proteus become rivals for the hand of Silvia,
+  daughter of the Duke of Milan, who has promised her to the foolish coward Thurio.
+  Proteus has Valentine banished, but Silvia escapes to the forest to join him. Proteus
+  follows with Julia, who dotes on him. After a confrontation, the Duke eventually
+  allows Valentine and Silvia to wed, and Proteus marries Julia.
+gutenberg_issued: '2007-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23043'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Exiles -- Drama'
+- !lcsh 'Triangles (Interpersonal relations) -- Drama'
+- !lcsh 'Verona (Italy) -- Drama'
+- !lcsh 'Comedies'
+- !lcc 'PR'
+title: 'Two Gentlemen of Verona
+
+  The Works of William Shakespeare [Cambridge Edition] [9 vols.]'
+url: http://www.gutenberg.org/ebooks/23043
